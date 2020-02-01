@@ -6,7 +6,7 @@ categories: self-development buecher
 author: Tasja
 ---
 
-![sample post]({{site.baseurl_fix}}images/self-discipline blueprint.jpg)
+![sample post]({{site.baseurl_fix}}images/self-discipline_blueprint.jpg)
 
 
 # Header 1
