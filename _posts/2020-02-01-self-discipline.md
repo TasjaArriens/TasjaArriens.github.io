@@ -293,8 +293,52 @@ Make the desired actions as easy as possible and the undesired as hard as possib
 
 ## Strategy #13: Surround Yourself with the Right People
 
+Since people adapt the goals, beliefs, and feelings of those surrounding them, you should make sure that those people are the right ones for you.
+These people define what is normal for you.
 
+So establish the following circles:
+* Accountability partnership: a person that you stay in touch with and talk regularly about your goals and progress.
+* Coaching relationship: a person that helps you to raise your standards and hold you accountable.
+* Mastermind group: 3-5 people with similar goals to give feedback and encouragement.
+* Mentorship: a person who achieved more than you at this moment and can guide you.
 
-## Strategy #14
+## Strategy #14: Play Poorly Well
 
-## Strategy #15
+Even when you are uninspired, you want to show up and do your work.
+You have to be aware of the fact that it isn't that important what or how much you have done, but actually you have done *something*.
+
+Imagine that you have your momentum, which you have to keep happy.
+Patrik calls him 'Big Mo'.
+He will only be happy, when you stick to your habits, your daily goals.
+If you miss one time, fine, Big Mo gets cranky.
+But if you miss again the next day, he'll leave you.
+
+So, even if you get only a little done, you did something and Big Mo is happy.
+Keeping your daily targets small can help you.
+But: keep going!
+
+## Strategy #15: Be Kind to Yourself
+
+All of us struggle from time to time, also the best.
+You might not recognize it, since the way they deal with these problems, helps to get up again.
+
+Sounds great, right?
+
+It is easy, so you can do it, too.
+
+The problem is that we tend to criticise ourselves, which makes it even worse, since you loose your motivation and just feel bad.
+Here comes the solution:
+
+Self-Compassion.
+
+Self-compassion helps you to feel better and achieve your goals.
+Think of it as a friend who cheers you up - with the only difference that it is you cheering up yourself.
+
+Self-compassion describes three principles:
+1. Mindfulness: be aware of your feelings
+2. Common humanity: see your fallibility as something that is normal for human beings
+3. Self-kindness: try to understand yourself and be kind instead of criticizing
+
+If you think of these points from an outer perspective, they are obvious: if someone is frustrated, you do not criticize him or her. You try to cheer them up and motivate them to keep going and that everyone fails from time to time.
+You are a human being, too.
+So be kind to yourself as well!
