@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Schlaganfall
-description: isso
+description: Allgemeinwissen
 categories: medizin
 author: tasja
 ---
