@@ -70,15 +70,36 @@ In addition, disentangling and judging every detail independently can help you t
 
 ### 6. What Do I Mean By "Rationality"?
 
-* **Epistemic Rationality**: systematically improving the accuracy of your beliefs
+* **Epistemic Rationality**: systematically improving the accuracy of your beliefs => building accurate maps
 
-=> building accurate maps
+* **Instrumental Rationality**: systematically achieving your values => art of choosing actions that lead to higher outcomes = "winning"
 
-* **Instrumental Rationality**: systematically achieving your values
+All in all, one could say that **rationality is about forming true beliefs and making decisions that help you win**.
+With regard to the chapter before "Burdensome Details", an example of rationality is to use Bayesian statistics. 
+The probability of "A" is higher than of "A and B", or:
 
-=> art of choosing actions that lead to higher outcomes = "winning"
+P(A) > P(A,B)
 
-All in all one could say that **rationality is about forming true beliefs and making decisions that help you win**.
+If an event like P(A,B) is judged as more likely than P(A), it is called non-Bayesian.
+
+But you should be aware that rationality is not that easy.
+Rationality is about finding the truth from the inside, so it includes all processes that are related to it.
+Your decisions, your judging, overthinking your emotions and habits, and many more.
+Also, the probability and decision theory have to be called into question.
+
+Nevertheless, the definition is only there to help us communicate.
+It is not important to learn the definition of the word "rationality".
+What we are going to address here is finding a good way to think.
+
+### 7. Planning Fallacy
+
+People always fail in finishing at the time they planned to.
+This is called the **planning fallacy**.
+Whenever they plan a process, they consider the best case scenario.
+They only use their **inside view** for the predictions.
+The **outside view** is when you take a look at similar projects and how long it took to finish them.
+Stop thinking of your project being something special.
+The more detailed the visualization, the more optimistic and less accurate.
 
 
 
