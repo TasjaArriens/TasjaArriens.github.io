@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Schlaganfall
-description: Allgemeinwissen
+description: FAST - warum man schnell handeln sollte
 categories: medizin
 author: tasja
 ---
