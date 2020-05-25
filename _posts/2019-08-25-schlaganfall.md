@@ -22,7 +22,7 @@ Durch Verstopfung eines Gefäßes oder einer Blutung gelangt das Blut nicht mehr
 In nur 1 min sterben fast 2 Millionen Zellen ab, was einer Alterung von über 3 Jahren entspricht. 
 Kein Wunder also, dass man alles versuchen möchte um noch ein paar Minuten mehr einzusparen. 
 
-## #Woran merkt man überhaupt, dass man selbst oder das Gegenüber gerade einen Schlaganfall hat?
+### Woran merkt man überhaupt, dass man selbst oder das Gegenüber gerade einen Schlaganfall hat?
 
 Die Symptome werden im Englischen über die Eselsbrücke „FAST“ dargestellt: 
 „F“ für „face“ also „Gesicht“ und eins der bekanntesten Symptome, nämlich der hängende Mundwinkel. 
