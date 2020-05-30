@@ -6,7 +6,7 @@ categories: medizin
 author: Tasja
 ---
 
-![sample post]({{site.baseurl_fix}}images/image-2.png)
+![sample post]({{site.baseurl_fix}}images/mukoviszidose1.png)
 
 
 ## Überblick
@@ -31,68 +31,19 @@ Dadurch kommt es schließlich zu den Symptomen und den weiteren Foglen im Krankh
 
 ## Symptome und Verlauf
 
+Die ersten Symptome sind bereits kurz nach der Geburt sichtbar. 
+Typisch sind dafür Atemwegsinfektionen und eine geringe Gewichtszunahme.
+Weitere Anzeichen für eine zystische Fibrose sind exzessives Schwitzen so wie männliche Unfruchtbarkeit.
+Am ausgeprägtesten ist jedoch eine Lungenerkrankung.
+Diese ist die häufigste Ursache für eine Lungentransplantation oder sogar den Tod des Patienten oder der Patientin.
+Doch auch wenn die Lunge am stärksten betroffen zu sein scheint, so kann es auch andere Organe stark treffen.
 
 
-## Therapie
+## Die Erfolge durch wissenschaftliches Arbeiten
 
-## 
-
-
-
-## Paragraphs
-
-These are sample paragraphs showing *italics*, **bold** and ``code`` text style. Here is an unordered  list 
-
-* Item 1
-* Item 2
-* Item 3
-
-and an ordered list
-
-1. Item 1
-2. Item 2
-3. Item 3
-
->A blockquote would look like this.
-
-> another one 
->
-> with multiple lines
+In vielen Ländern wird mittlerweile ein Neugeborenenscreening durchgeführt
 
 
+## Referenzen
 
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-
-**Code:** Let's keep it to its length and let it not take the whole width.
-{% highlight html %}
-
-<div class="nav">
-    <ul>
-        <li>About</li>
-        <li>Contact</li>
-        <li>Project</li>
-    </ul>
-</div>
-
-
-{% endhighlight %}
-
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.
-
-This is a simple markdown table
-
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
-
-
-
-Use below code to show **Table of Contents** on a page
-
-{% highlight css %}
-* Do not remove this line (it will not be displayed) 
-{:toc}
-{% endhighlight %}
+* De Boeck K. Cystic fibrosis in the year 2020: A disease with a new face. Acta Paediatr. 2020;109(5):893‐899. doi:10.1111/apa.15155
