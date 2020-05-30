@@ -9,15 +9,33 @@ author: Tasja
 ![sample post]({{site.baseurl_fix}}images/image-2.png)
 
 
-## Mukoviszidose oder auch zystische Fibrose ist eine rezessiv vererbbare Stoffwechselerkrankung. Zum Glück ist die Erkrankung selten, doch die Patienten erwartet ein kompliziertes und selten normales Leben. Früher als Kinderkrankheit bekannt, überleben die Patienten heute jedoch deutlich länger. Trotz dieser positiven Entwicklung möchte ich hier gerne auf die Krankheit aufmerksam machen.
+## Überblick
 
-### Header 3
+Mukoviszidose oder auch zystische Fibrose ist eine rezessiv vererbbare Stoffwechselerkrankung. Auch wenn die Erkrankung selten ist, erwartet die Patienten ein kompliziertes Leben. Früher als Kinderkrankheit bekannt, überleben die Patienten heute jedoch deutlich länger. Wieso? Das erkläre ich Euch in diesem Artikel!
 
-#### Header 4
+## Ursache 
 
-##### Header 5
+Die Ursache der Erkrankung liegt an einer Veränderung des Gens CTFR. 
+Jeder Mensch besitzt einen doppelten Chromosomensatz mit insgesamt 46 Chromosomen, davon sind 23 vom Vater und 23 von der Mutter vererbt.
+Auf dem Chromosom 7 liegt das CTFR-Gen. 
+Viele Krankheiten brechen bereits bei 1 fehlerhaften Kopie des jeweiligen Gens aus. 
+Diesen Typ nennt man 'dominant vererbbar'.
+Mukoviszidose ist hingegen 'rezessiv vererbbar', was so viel heißt, dass die Erkrankung nur dann ausbricht, wenn beide Chromosomen eine fehlerhafte Kopie vorweisen. 
+Beide Eltern müssen demnach mindestens 1 fehlerhafte Kopie bereits in sich tragen, weshalb rezessiv vererbbare Erkrankungen auch häufiger bei Kindern von Paaren auftreten, die miteinander verwandt sind.
+Personen, die zwar eine fehlerhafte Kopie besitzen, aber nicht erkrankt sind, nennt man Merkmalsträger.
 
-###### Header 6
+Die Genveränderung oder auch Mutation, führt nun dazu, dass ein Kanal, welcher an der Zelloberfäche sitzt, seine Funktion durch diese Veränderung nicht mehr ausführen kann.
+Dieser Kanal reguliert im gesunden Menschen den Salz- und Wasser-Haushalt der Zelle.
+Das Resultat ist, dass das Wasser aus der Umgebung entzogen wird und vermehrt in die Zelle strömen kann. 
+Dadurch kommt es schließlich zu den Symptomen und den weiteren Foglen im Krankheitsverlauf.
+
+## Symptome und Verlauf
+
+
+
+## Therapie
+
+## 
 
 
 
