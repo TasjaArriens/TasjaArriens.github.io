@@ -1,17 +1,15 @@
 ---
 layout: post
-title: Emulsionen
-description: Zusammensetzung und Stabilität 
-categories: pharmazie
+title: Mukoviszidose
+description: Eine Genveränderung mit Folgen 
+categories: medizin
 author: Tasja
 ---
 
 ![sample post]({{site.baseurl_fix}}images/image-2.png)
 
 
-# Header 1
-
-## Header 2
+## Mukoviszidose oder auch zystische Fibrose ist eine rezessiv vererbbare Stoffwechselerkrankung. Zum Glück ist die Erkrankung selten, doch die Patienten erwartet ein kompliziertes und selten normales Leben. Früher als Kinderkrankheit bekannt, überleben die Patienten heute jedoch deutlich länger. Trotz dieser positiven Entwicklung möchte ich hier gerne auf die Krankheit aufmerksam machen.
 
 ### Header 3
 
