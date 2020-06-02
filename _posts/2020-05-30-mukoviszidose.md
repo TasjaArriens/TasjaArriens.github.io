@@ -6,7 +6,7 @@ categories: medizin
 author: Tasja
 ---
 
-![sample post]({{site.baseurl_fix}}images/mukoviszidose1.png)
+![sample post]({{site.baseurl_fix}}images/mukoviszidose2.png)
 
 
 ## Überblick
@@ -28,6 +28,8 @@ Die Genveränderung oder auch Mutation, führt nun dazu, dass ein Kanal, welcher
 Dieser Kanal reguliert im gesunden Menschen den Salz- und Wasser-Haushalt der Zelle.
 Das Resultat ist, dass das Wasser aus der Umgebung entzogen wird und vermehrt in die Zelle strömen kann. 
 Dadurch kommt es schließlich zu den Symptomen und den weiteren Foglen im Krankheitsverlauf.
+
+![sample post]({{site.baseurl_fix}}images/mukoviszidose1.png)
 
 ## Symptome und Verlauf
 
