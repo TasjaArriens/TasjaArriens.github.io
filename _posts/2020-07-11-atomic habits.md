@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ultralearning - An Introduction
+title: Atomic Habits by James Clear
 description: Part 1
 categories: self-development buecher
 author: Tasja
