@@ -5,7 +5,7 @@ permalink: /about/
 show-in-menu: yes
 ---
 
-Hallo zusammen, ich bin Tasja und freue mich Euch hier auf meinem Blog begrüßen zu dürfen. Momentan übe ich hier das Schreiben von Artikeln. Die Wissenschafts-Blogeinträge sind auf deutsch, während ich zu Self-Development und den Büchern meist englische Versionen verfasse. 
+Hallo zusammen, ich bin Tasja und freue mich Euch hier auf meinem Blog begrüßen zu dürfen. Momentan übe ich hier das Schreiben von Artikeln. Die Wissenschafts-Blogeinträge sind auf deutsch, während ich zu Persönlichkeitsentwicklung und den Büchern meist englische Versionen verfasse. 
 
 Nun aber zu meiner Person:
 Ich bin 1995 geboren und somit gerade noch unter 25 Jahre alt. In meinem Bachelor habe ich 'Molekulare Medizin' studiert, was gerne nur als 'Medizin' aufgefasst wird. Seit letztem Jahr studiere ich im Master Industrial Pharmacy, ein internationales und Industrie-nahes Programm. Auf meinem Weg habe ich gemerkt, dass ich nicht direkt die Laborarbeit liebe - aber mein Herz brennt für das Verständnis der Prozesse dahinter. 

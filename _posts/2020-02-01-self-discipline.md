@@ -2,7 +2,7 @@
 layout: post
 title: The Self-Discipline Blueprint by Patrik Edblad
 description: Book review of 'The Self-Discipline' by Patrik Edblad 
-categories: self-development buecher
+categories: persoenlichkeitsentwicklung buecher
 author: Tasja
 ---
 

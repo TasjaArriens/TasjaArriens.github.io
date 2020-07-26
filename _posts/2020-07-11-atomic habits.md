@@ -2,9 +2,8 @@
 layout: post
 title: Atomic Habits by James Clear
 description: Part 1
-categories: self-development buecher
+categories: persoenlichkeitsentwicklung buecher
 author: Tasja
 ---
 
-
-It's a good book yo
+# 
